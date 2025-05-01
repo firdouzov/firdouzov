@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aydin 👋</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | AI Engineer</h3>
 
 ---
 
