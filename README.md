@@ -44,14 +44,17 @@
 
 ### 🧩 Projects that I've worked with
 
-- 🔮 [**LLM-Driven Customer Support Bot**](https://github.com/YOUR_USERNAME/project1)  
-  A GPT-powered assistant trained on domain-specific FAQs for faster ticket resolution.
+- 🔮 [**LLM Driven RAG Chatbot**](https://github.com/firdouzov/RAGChatBot)  
+  This project is a Conversational Retrieval Chatbot that combines document retrieval with a language model to provide context-aware answers, leveraging FAISS, Sentence Transformers, and LLama-3.1-8B for efficient search and response generation.
 
-- 🎲 [**Churn Prediction in Online Gambling**](https://github.com/YOUR_USERNAME/project2)  
-  A real-world case study using survival analysis and XGBoost.
+- 🎲 [**Housing Predictor of the Baku City (Deployment Phase)**](https://github.com/firdouzov/BakuHousingPredictor)  
+  This project is a Housing Price Predictor that uses a pre-defined model (phase doesn't shown due to confidentiality) to predict property prices based on features such as area, number of rooms, and location, with a map interface for selecting the property’s coordinates.
 
-- 🧠 [**MLOps Pipeline with Airflow & Docker**](https://github.com/YOUR_USERNAME/project3)  
-  End-to-end ML deployment with CI/CD and monitoring.
+- 🧠 [**Chatbot Application Interface using Gemini**](https://github.com/firdouzov/demogouge_web)  
+  This project is a Flask web app that uses Generative AI to provide multilingual chatbot interactions and image captioning with automatic translation capabilities, and stores conversation data in a MySQL database.
+
+- 🧠 [**Additional Kaggle Competitions Foler**] (https://github.com/firdouzov/kaggle_competitions)
+  This folder contains code and solutions for various Kaggle competitions, showcasing data analysis, feature engineering, and model-building techniques across diverse problem domains.
 
 ---
 
