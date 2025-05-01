@@ -4,7 +4,7 @@
 ---
 
 🌍 I'm passionate about turning data into impactful solutions. I specialize in:
-- Data Science & Machine Learning & Deep Learning
+- Data Science, Machine Learning & Deep Learning
 - NLP, Transformers, LLMs, RAG Systems
 - Predictive Modeling, Time Series Analysis
 
@@ -20,7 +20,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -45,16 +44,16 @@
 ### 🧩 Projects that I've worked with
 
 - 🔮 [**LLM Driven RAG Chatbot**](https://github.com/firdouzov/RAGChatBot)  
-  This project is a Conversational Retrieval Chatbot that combines document retrieval with a language model to provide context-aware answers, leveraging FAISS, Sentence Transformers, and LLama-3.1-8B for efficient search and response generation.
+  A **Conversational Retrieval Chatbot** combining document retrieval with a language model to provide context-aware answers, leveraging **FAISS**, **Sentence Transformers**, and **LLama-3.1-8B** for efficient search and response generation.
 
-- 🎲 [**Housing Predictor of the Baku City (Deployment Phase)**](https://github.com/firdouzov/BakuHousingPredictor)  
-  This project is a Housing Price Predictor that uses a pre-defined model (phase doesn't shown due to confidentiality) to predict property prices based on features such as area, number of rooms, and location, with a map interface for selecting the property’s coordinates.
+- 🎲 [**Housing Predictor of Baku City (Deployment Phase)**](https://github.com/firdouzov/BakuHousingPredictor)  
+  A **Housing Price Predictor** that uses a pre-defined model to predict property prices based on area, number of rooms, and location, with a map interface for selecting the property’s coordinates.
 
 - 🧠 [**Chatbot Application Interface using Gemini**](https://github.com/firdouzov/demogouge_web)  
-  This project is a Flask web app that uses Generative AI to provide multilingual chatbot interactions and image captioning with automatic translation capabilities, and stores conversation data in a MySQL database.
+  A **Flask web app** that uses **Generative AI** for multilingual chatbot interactions, image captioning with automatic translation, and stores conversation data in a **MySQL database**.
 
-- 🧠 [**Additional Kaggle Competitions Foler**] (https://github.com/firdouzov/kaggle_competitions)
-  This folder contains code and solutions for various Kaggle competitions, showcasing data analysis, feature engineering, and model-building techniques across diverse problem domains.
+- 🧠 [**Additional Kaggle Competitions Folder**](https://github.com/firdouzov/kaggle_competitions)  
+  A collection of code and solutions for various **Kaggle competitions**, showcasing data analysis, feature engineering, and model-building techniques across diverse problem domains.
 
 ---
 
