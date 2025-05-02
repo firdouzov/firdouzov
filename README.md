@@ -5,7 +5,7 @@
 
 🌍 I'm passionate about turning data into impactful solutions. I specialize in:
 - Data Science, Machine Learning & Deep Learning
-- NLP, Transformers, LLMs, RAG Systems
+- NLP, Transformers, LLMs, RAG Systems 
 - Predictive Modeling, Time Series Analysis
 
 💼 Currently: Leading Data Scientist @ Azerlotereya  
