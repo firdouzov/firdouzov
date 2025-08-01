@@ -8,7 +8,7 @@
 - NLP, Transformers, LLMs, RAG Systems 
 - Predictive Modeling, Time Series Analysis
 
-💼 Currently: Leading Data Scientist @ Azerlotereya  
+💼 Currently: Senior Data Scientist @ Azerlotereya  
 🎯 Goals: Bridging AI with business strategy | Leading ML integrations across teams
 
 ---
