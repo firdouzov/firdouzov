@@ -8,7 +8,6 @@
 - NLP, Transformers, LLMs, RAG Systems 
 - Predictive Modeling, Time Series Analysis
 
-💼 Currently: Data Scientist @ Thetaray  
 🎯 Goals: Bridging AI with business strategy | Leading ML integrations across teams
 
 ---
